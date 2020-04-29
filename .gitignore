@@ -1,2 +1,4 @@
 **/.terraform
 aws-auth
+terraform.tfstate
+terraform.tfstate.backup

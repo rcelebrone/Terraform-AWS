@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "btf" {
-  bucket = "curso-terraform-27042020"
+  bucket = "meu-bucket-terraform-27042020"
   acl    = "private"
 
   tags = {
